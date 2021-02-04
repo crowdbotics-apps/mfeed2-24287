@@ -46,6 +46,16 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "django.contrib.sites",
+    "delivery_user_profile",
+    "delivery_order",
+    "menu",
+    "driver",
+    "task",
+    "task_profile",
+    "wallet",
+    "tasker_business",
+    "task_category",
+    "location",
 ]
 LOCAL_APPS = [
     "home",
